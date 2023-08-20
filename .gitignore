@@ -46,3 +46,6 @@ test-ledger
 
 # Local Netlify folder
 .netlify
+
+# JSON files
+*.json
